@@ -96,6 +96,9 @@ nav .fa{
         font-size: 22px;
         cursor: pointer;
     }
+    nav img{
+        width: 100px;
+    }
     .navigation ul{
         padding: 30px;
     }
