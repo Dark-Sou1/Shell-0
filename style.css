@@ -175,3 +175,9 @@ p{
     background: rgb(100, 86, 157);
     transition: 1s;
 }
+html{
+    overflow-x: hidden;
+}
+body{
+    overflow-x: hidden;
+}
